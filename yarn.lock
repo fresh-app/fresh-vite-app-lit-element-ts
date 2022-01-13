@@ -3,9 +3,9 @@
 
 
 "@lit/reactive-element@^1.1.0":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@lit/reactive-element/-/reactive-element-1.1.1.tgz#523b29e529e881fce47bab764ea1b8058fd45796"
-  integrity sha512-B2JdRMwCGv+VpIRj3CYVQBx3muPDeE8y+HPgWqzrAHsO5/40BpwDFZeplIV790BaTqDVUDvZOKMSbuFM9zWC0w==
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@lit/reactive-element/-/reactive-element-1.1.2.tgz#ec5bb2c80bf93ae484c623129cc9bbdb7981ca8c"
+  integrity sha512-k0509kNIsQ+UMcaW8mqcH6/os/Do3cm35HmES4yUAahb5vLKeEqCaGLy6+s1bPZTqwPIpQRPgfNgxHRZ+etvZg==
 
 "@types/trusted-types@^2.0.2":
   version "2.0.2"
@@ -169,9 +169,9 @@ lit@^2.0.2:
     lit-html "^2.1.0"
 
 nanoid@^3.1.30:
-  version "3.1.31"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.31.tgz#f5b58a1ce1b7604da5f0605757840598d8974dc6"
-  integrity sha512-ZivnJm0o9bb13p2Ot5CpgC2rQdzB9Uxm/mFZweqm5eMViqOJe3PV6LU2E30SiLgheesmcPrjquqraoolONSA0A==
+  version "3.1.32"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.1.32.tgz#8f96069e6239cc0a9ae8c0d3b41a3b4933a88c0a"
+  integrity sha512-F8mf7R3iT9bvThBoW4tGXhXFHCctyCiUUPrWF8WaTqa3h96d9QybkSeba43XVOOE3oiLfkVDe4bT8MeGmkrTxw==
 
 path-parse@^1.0.7:
   version "1.0.7"
